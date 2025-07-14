@@ -1,16 +1,47 @@
-# chat_app_firebase
+# 📱 Flutter Firebase Chat App
 
-A new Flutter project.
+A real-time chat application built using **Flutter** and **Firebase**, inspired by WhatsApp. The app supports individual chatting, user authentication, profile photo upload, unread message count, and more.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Firebase Authentication (Email & Password)
+- 💬 Real-time Messaging using Firestore
+- 🧾 Unread message badge (counter resets on opening chat)
+- 📷 Profile Image Upload & Display
+- 📁 Local profile image loading (via `FutureBuilder`)
+- 🔔 Last message & timestamp preview
+- 🌐 Responsive design similar to WhatsApp
+- 📤 Message sending with timestamp
+- 👤 Drawer with user profile and navigation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+
+
+<img width="440" height="992" alt="Screenshot 2025-07-14 112836" src="https://github.com/user-attachments/assets/3974194e-624d-4ff2-a590-70c978e1459b" />
+
+<img width="439" height="986" alt="Screenshot 2025-07-14 112915" src="https://github.com/user-attachments/assets/1bee651e-a06e-438f-b471-a3fcda6cd975" />
+
+<img width="440" height="991" alt="Screenshot 2025-07-14 112937" src="https://github.com/user-attachments/assets/d4e0dfa9-4bba-49fa-801f-1c650e1dafb5" />
+
+
+
+
+## 🛠️ Tech Stack
+
+| Tech            | Purpose                       |
+|-----------------|-------------------------------|
+| Flutter         | UI Development                |
+| Firebase Auth   | User Authentication           |
+| Cloud Firestore | Real-time Database            |
+| Firebase Storage| Profile Picture Storage       |
+| Dart            | Programming Language          |
+
+---
+
+## 📂 Project Structure
+
